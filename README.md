@@ -209,7 +209,7 @@ Even if you are just a developer, manager or co-founder looking for a sample app
 | [react-handsontable](https://github.com/handsontable/react-handsontable) | A React wrapper for the the Handsontable spreadsheet component. | [https://handsontable.com](https://handsontable.com) |   |   |   |
 | [React Admin](https://www.wrappixel.com/templates/category/react-templates/?ref=232) | Download Free React Templates by WrapPixel | [https://www.wrappixel.com/](https://www.wrappixel.com/templates/category/react-templates/?ref=232) |
 | [PopCritic](https://github.com/theabbie/PopCritic) | Movies Reviewed by people, for people. | [https://popcritic.web.app/](https://popcritic.web.app/) |   |   |   |
-| Sigle | A decentralized and open-source Web3 writing platform for content creators | https://www.sigle.io |
+| [Sigle](https://github.com/sigle/sigle) | A decentralized and open-source Web3 writing platform for content creators | https://www.sigle.io |
 | [React Admin Templates](https://adminmart.com/templates/react/?ref=6) | Download Best Free and Premium React Templates from AdminMart | [https://adminmart.com/](https://adminmart.com/templates/react/?ref=6) |
 | [Unbroken](https://unbroken-app.com/) | Unbroken - A React-based Progressive Web App for strength & cardio tracking, based on the Tactical Barbell books | [https://unbroken-app.com/](https://unbroken-app.com/) |
 
